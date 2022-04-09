@@ -21,3 +21,9 @@ The application shown below was deployed using GitHub Pages. The repository can 
 
 Upon accessing the application for the first time, the user will only be presented with a search field where they can enter their desired city. After the first search, current weather, 5 day forecast, and a listing of previous searches will appear. Previous cities searched will be stored in localStorage and will be recalled the next time the user accesses the application.
 
+link to the repo:
+https://github.com/chukwuebukaace/Weather-Dashboard  
+link to the deployed: website https://chukwuebukaace.github.io/Weather-Dashboard/
+
+##### screenshot to the website:
+![screenshot of the website](/images/IMG_0108.jpeg)
